@@ -1,10 +1,10 @@
 # CSL7110 Assignment 2 — MinHashing and LSH
 
 ## Overview
-Implementation of MinHashing and Locality Sensitive Hashing (LSH) techniques
+ MinHashing and Locality Sensitive Hashing (LSH) techniques 
 for document similarity detection, applied on small text documents and the
-MovieLens 100k dataset.
-
+MovieLens 100k dataset. All testing done on CSL7110.ipynb jupiter notebook.
+Executed results are shown in the jupyter Notebook.
 ## Repository Structure
 ```
 minhash_lsh/
@@ -18,6 +18,7 @@ minhash_lsh/
 - Python 3.x
 - numpy
 - pandas
+- matplotlib
 
 
 
